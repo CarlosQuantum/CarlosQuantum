@@ -1,5 +1,5 @@
 ### Hi there 👋
-$$\braket{\psi} $$
+$$\hat{H}\ket{\psi}= E \ket{\psi}$$
 <!--
 **CarlosQuantum/CarlosQuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
